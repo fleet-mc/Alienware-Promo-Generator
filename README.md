@@ -1,12 +1,12 @@
-# Alienware Promo Generator - Fork of Pixens (Fixing Temporary Email Support)
+# Alienware Promo Generator<br> Fork of Pixens (Fixing Temporary Email Support)
 - Creates 1 Month Nitro Promo Links using the Nitro X Alienware collaboration.
 
 <div id="top"></div>
 <p align="left">
-  <img src="https://img.shields.io/github/stars/Pixens/Alienware-Promo-Generator.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/Pixens/Alienware-Promo-Generator.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/Pixens/Alienware-Promo-Generator.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/contributors/Pixens/Alienware-Promo-Generator.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/fleet-mc/Alienware-Promo-Generator.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/fleet-mc/Alienware-Promo-Generator.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/fleet-mc/Alienware-Promo-Generator.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/fleet-mc/Alienware-Promo-Generator.svg?style=for-the-badge"/>
 </p>
 
 ## How To Run?
@@ -23,5 +23,5 @@ This is intended for educational purposes only. The creator assumes no responsib
 
 # Note
 
-If you want to help us out on this project, then DM @ me (ignceltic)
-I WONT block you, if you ask for help.
+If you want to help us out on this project, then DM @ me (ignceltic)<br>
+I **WONT** block you, if you ask for help.
